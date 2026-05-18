@@ -18,12 +18,22 @@ A modern Flutter mobile application for managing food bank inventory.
 ## API Note
 This app uses JSONPlaceholder (https://jsonplaceholder.typicode.com/posts) as a mock backend. Any data you add, update, or delete will not persist permanently as it is a fake API.
 
-## Screenshots
-**List**
+### Screenshots
+## List
 ![image alt](https://github.com/HawiChocolate/CRUD-assignment1/blob/14efc9b5f0ede883579c87705416aef1b4bcb5b9/list)
 
-**Details page**
+## Details page
 ![image alt](https://github.com/HawiChocolate/CRUD-assignment1/blob/14efc9b5f0ede883579c87705416aef1b4bcb5b9/details%20page)
+
+## Edit page
+![image alt](https://github.com/HawiChocolate/CRUD-assignment1/blob/24def0ae1f49fa8c254d659078a34edc8fe133cf/edit%20page)
+
+## Add page
+![image alt](https://github.com/HawiChocolate/CRUD-assignment1/blob/24def0ae1f49fa8c254d659078a34edc8fe133cf/add%20page)
+
+## Delete page
+![image alt](https://github.com/HawiChocolate/CRUD-assignment1/blob/24def0ae1f49fa8c254d659078a34edc8fe133cf/delete%20page)
+![image alt](https://github.com/HawiChocolate/CRUD-assignment1/blob/24def0ae1f49fa8c254d659078a34edc8fe133cf/sub%20delete)
 
 
 ## How to Run
