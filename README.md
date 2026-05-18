@@ -19,7 +19,7 @@ A modern Flutter mobile application for managing food bank inventory.
 This app uses JSONPlaceholder (https://jsonplaceholder.typicode.com/posts) as a mock backend. Any data you add, update, or delete will not persist permanently as it is a fake API.
 
 ## Screenshots
-
+<img src="blob:https://web.telegram.org/48cfbd09-e6b6-47ed-a63c-433d1bfaa6f1"/>
 
 
 ## How to Run
